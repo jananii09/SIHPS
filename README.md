@@ -11,16 +11,56 @@ Background: Railway stations are complex environments with numerous facilities a
 Ministry of Railway
 
 ## Idea
+Mobile-Friendly Design:
+Implementation: Use a responsive CSS framework like Bootstrap to ensure the website adjusts seamlessly on mobile devices.
 
+Live Webinars Section:
+Implementation: Embed live streaming options using platforms like YouTube Live or Zoom Webinars directly into the site.
+
+Geolocation Map:
+Implementation: Integrate Google Maps API to show a world map with alumni pins, and allow searching by location.
+
+Survey and Poll Tools:
+Implementation: Add an embeddable poll tool like Mentimeter or integrate custom surveys stored in a database with real-time result displays.
 
 ## Proposed Solution / Architecture Diagram
 
+![image](https://github.com/user-attachments/assets/bc9bab85-a386-4610-83a9-002c98566773)
+
 
 ## Use Cases
+Alumni:
 
+Create a profile and update information
+
+Search and connect with other alumni
+
+Join alumni groups and forums
+
+Participate in online discussions and polls
+
+Donate to the institute
+
+Register for alumni events
+
+Post job opportunities
 
 ## Technology Stack
+1.Frontend: React, Angular, or Vue.js
 
+2.Backend: Node.js, Python (Django or Flask), or Ruby on Rails
+
+3.Database: PostgreSQL, MySQL, or MongoDB
+
+4.Cloud Platform: AWS, Azure, or Google Cloud Platform
+
+5.Mobile Development: React Native, Flutter, or native iOS and Android development
 
 ## Dependencies
+Third-party libraries and frameworks: For authentication, payment processing, email, and SMS notifications.
 
+Cloud infrastructure providers: For hosting the application and database.
+
+Domain name and hosting: For the website's domain name and web hosting.
+
+Security measures: To protect user data and prevent cyberattacks
